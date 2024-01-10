@@ -1,0 +1,17 @@
+.tech__s__2__section__content__container{
+  display: flex;
+  flex-direction: row-reverse;
+
+}
+
+
+.tech__s__2__images__top{
+  display: none;
+  width: 10%;
+
+}
+
+.tech__s__2__section__left__side{
+  text-align: end;
+}
+

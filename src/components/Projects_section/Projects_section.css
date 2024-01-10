@@ -1,0 +1,14 @@
+.project__section__projects{
+  border-radius: 3.125rem;
+  background: rgba(11, 18, 209, 0.139);
+  padding: 2rem;
+}
+
+
+@media only screen and (max-width:700px){
+
+
+  .project__section__projects{
+    border-radius: 0.75rem;
+  }
+}

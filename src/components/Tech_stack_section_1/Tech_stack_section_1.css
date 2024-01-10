@@ -1,0 +1,36 @@
+/* tech stack section custom styling */
+
+
+
+.tech__s__1__section__content__container{
+  display: flex;
+  align-items: center;
+}
+
+.tech__s__1__section__image__container__top,.tech__s__1__section__image__container__btm{
+  display: flex;
+  padding-left: 5em;
+}
+
+
+
+.fa-brands{
+  font-size: 5em;
+  padding: 0.2em;
+}
+
+
+
+@media only screen and (max-width: 700px){
+
+  .fa-brands{
+    font-size: 4em;
+    padding: 0.05em
+  }
+
+  .tech__s__1__section__image__container__top,.tech__s__1__section__image__container__btm{
+    padding-left: 1em;
+  }
+
+
+}
