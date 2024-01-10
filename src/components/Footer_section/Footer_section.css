@@ -1,0 +1,10 @@
+/* custom footer styling */
+
+nav{
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.fa-brand-override{
+  font-size: 2em !important;
+}
