@@ -1,6 +1,7 @@
 .tech__s__2__section__content__container{
   display: flex;
   flex-direction: row-reverse;
+  align-items: center;
 
 }
 

@@ -5,10 +5,12 @@ const Projects_section = () => {
   return (
     <div>
         <div className="project__section__projects">
+          
           <h1 className="main__heading__text__styling text-center">Projects</h1>
 
           <div className="project__section_content_1 mb-5">
             <div className="project__section__header__container mb-3">
+              <i class="fa-solid fa-code"></i>
               <h5 className="indicator__headings">Projects</h5>
               <h2 className="main__heading__text__styling">GraphixCentralv2</h2>
             </div>
@@ -20,7 +22,7 @@ const Projects_section = () => {
             </div>
 
             <div className="hero__section__button__container">
-              <button className="btn btn-primary project__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+              <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
             </div>
 
           </div>
@@ -28,6 +30,7 @@ const Projects_section = () => {
 
           <div className="project__section_content_2 mb-5">
             <div className="project__section__header__container mb-3">
+              <i class="fa-solid fa-code"></i>
               <h5 className="indicator__headings">Projects</h5>
               <h2 className="main__heading__text__styling">Portfolio-page-v1</h2>
             </div>
@@ -39,7 +42,7 @@ const Projects_section = () => {
             </div>
 
             <div className="hero__section__button__container">
-              <button className="btn btn-primary project__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+              <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
             </div>
 
           </div>
@@ -47,6 +50,7 @@ const Projects_section = () => {
 
           <div className="project__section_content_3 mb-5">
             <div className="project__section__header__container mb-3">
+              <i class="fa-solid fa-code"></i>
               <h5 className="indicator__headings">Projects</h5>
               <h2 className="main__heading__text__styling">Taracryptov2</h2>
             </div>
@@ -58,7 +62,7 @@ const Projects_section = () => {
             </div>
 
             <div className="hero__section__button__container">
-              <button className="btn btn-primary project__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+              <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
             </div>
 
           </div>
