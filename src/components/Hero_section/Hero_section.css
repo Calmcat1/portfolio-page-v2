@@ -15,6 +15,10 @@
 
 @media only screen and (max-width:700px){
 
+  .hero__section__header__container{
+    width: auto;
+  }
+
   .main__mobile__heading__text__styling{
     width: 19rem;
   }
