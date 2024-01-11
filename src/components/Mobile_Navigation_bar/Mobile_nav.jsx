@@ -3,7 +3,7 @@ import React from 'react'
 const mobile_nav = () => {
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-light d-block d-lg-none mb-5">
+      <nav class="navbar navbar-expand-lg navbar-light primary__blue d-block d-lg-none mb-5 fixed-top">
         <div class="container">
           <a class="navbar-brand" href="/home"><h4 class="custom__logo__styling">Tarafiki</h4></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobileNav">

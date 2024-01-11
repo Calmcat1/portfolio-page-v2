@@ -7,11 +7,16 @@ html{
 
 body{
   background-color: #2EA5FB !important;
+  padding-top: 7em;
 }
 
 .main__container{
   padding-left: 10em;
   padding-right: 10em;
+}
+
+.primary__blue{
+  background-color: #007bff;
 }
 
 /* utility classes for the text in the application */

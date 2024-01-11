@@ -4,7 +4,7 @@ import './Navigation_bar.css'
 const Navigation_bar = () => {
   return (
     <div>
-       <nav class="navbar navbar-expand-lg navbar-light custom-white-bg-color-black-border d-none d-lg-block mb-5">
+       <nav class="navbar navbar-expand-lg navbar-light primary__blue d-none d-lg-block mb-5 fixed-top">
         <div class="container ">
             <a class="navbar-brand" href="/"><h4 class="custom__logo__styling">Tarafiki</h4></a>
             <ul class="navbar-nav ml-auto">
