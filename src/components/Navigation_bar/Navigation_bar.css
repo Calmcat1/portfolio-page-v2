@@ -1,0 +1,10 @@
+.navbar .container{
+  justify-content: space-around !important;
+}
+
+
+@media only screen and (max-width:1000px){
+  .navbar .container{
+    justify-content: space-between !important;
+  }
+}
