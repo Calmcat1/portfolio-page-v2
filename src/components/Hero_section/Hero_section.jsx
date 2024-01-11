@@ -17,7 +17,7 @@ const Hero_section = () => {
             </div>
 
             <div className="hero__section__button__container">
-              <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Contact me</button>
+              <a className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling" href="mailto:tarafikicom@gmail.com">Contact me</a>
             </div>
           </div>
         
