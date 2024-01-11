@@ -1,0 +1,78 @@
+/*pc ellipse_styling */
+
+.ellipse__circle__v1{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: -11em;
+  left: -10em;
+  border-radius: 48.125rem;
+  background: rgb(11, 18, 209);
+  filter: blur(80px);
+}
+
+
+.ellipse__circle__v2{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: 10em;
+  left: 50em;
+  border-radius: 48.125rem;
+  background: rgb(0, 230, 246);
+  filter: blur(80px);
+}
+
+
+.ellipse__circle__v3{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: -5em;
+  left: 20em;
+  border-radius: 48.125rem;
+  background: rgb(0, 230, 246);
+  filter: blur(80px);
+}
+
+
+.ellipse__circle__v4{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: 30em;
+  left: 0em;
+  border-radius: 48.125rem;
+  background: rgba(11, 18, 209, 0.475);
+  filter: blur(80px);
+}
+
+
+.ellipse__circle__v5{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: 40em;
+  left: 50em;
+  border-radius: 48.125rem;
+  background: rgb(0, 230, 246);
+  filter: blur(80px);
+}
+
+
+.ellipse__circle__v6{
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  position: absolute;
+  top: -11em;
+  left: 30em;
+  border-radius: 48.125rem;
+  background: rgba(11, 18, 209, 0.475);
+  filter: blur(80px);
+}
