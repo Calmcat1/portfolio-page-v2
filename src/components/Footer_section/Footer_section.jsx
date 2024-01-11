@@ -15,7 +15,7 @@ const Footer_section = () => {
                 <a class="nav-link custom__navigation__links" href="https://www.linkedin.com/in/lee-gitonga-3a5921242/">LinkedIn</a>
 
                 <i class="fa-regular fa-envelope fa-brand-override"></i>
-                <a class="nav-link custom__navigation__links" href="/mailto:tarafikicom@gmail.com">Email</a>
+                <a class="nav-link custom__navigation__links" href="mailto:tarafikicom@gmail.com">Email</a>
               </nav>
         </div>
       </footer>

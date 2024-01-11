@@ -23,7 +23,7 @@ const Projects_section = () => {
              </div>
     
              <div className="hero__section__button__container">
-               <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+               <a className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling" href="https://graphix-central-v2.vercel.app/">Demo</a>
              </div>
             </div>
           </div>
@@ -44,7 +44,7 @@ const Projects_section = () => {
               </div>
 
               <div className="hero__section__button__container">
-                <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+                <a className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling" href="https://portfolio-page-v1.vercel.app/">Demo</a>
               </div>
             </div>
           </div>
@@ -65,7 +65,7 @@ const Projects_section = () => {
               </div>
 
               <div className="hero__section__button__container">
-                <button className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling">Demo</button>
+                <a className="btn btn-primary hero__section__custom__btn__styling sub__heading__text__styling" href="https://tara-crypto-blog.vercel.app/home/">Demo</a>
               </div>
               </div>
           </div>
