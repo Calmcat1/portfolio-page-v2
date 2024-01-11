@@ -1,15 +1,37 @@
+
 .project__section__projects{
   border-radius: 3.125rem;
   background: rgba(11, 18, 209, 0.139);
   padding: 2rem;
 }
 
+.project__section_content_1,.project__section_content_2,.project__section_content_3{
+  transition: 0.5s background-color, 0.5s border-radius, 0.5s padding
+}
 
+.project__section_content__subcontainer{
+  padding: 2em;
+}
+
+.project__section_content_1:hover,.project__section_content_2:hover,.project__section_content_3:hover{
+  background-color: rgba(255, 255, 255, 0.285);
+  border-radius: 3.123rem;
+}
 
 @media only screen and (max-width:700px){
 
 
   .project__section__projects{
     border-radius: 0.75rem;
+  }
+
+  .project__section_content__subcontainer{
+    padding: 2em 1.5em 2em 0.9em;
+  }
+
+  .project__section_content_1:hover,.project__section_content_2:hover,.project__section_content_3:hover{
+    background-color: rgba(255, 255, 255, 0.285);
+    border-radius: 3.123rem;
+    
   }
 }
