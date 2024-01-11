@@ -48,10 +48,15 @@ body{
   font-family: outfit !important;
   font-weight: 700 !important;
 }
-
+s
 
 .indicator__headings{
   color: black;
+}
+
+.clickable__links{
+  color: #1500ff !important;
+  text-decoration: underline !important;
 }
 
 
