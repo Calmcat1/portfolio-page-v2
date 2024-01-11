@@ -31,7 +31,7 @@
 
   .project__section_content_1:hover,.project__section_content_2:hover,.project__section_content_3:hover{
     background-color: rgba(255, 255, 255, 0.285);
-    border-radius: 3.123rem;
+    border-radius: 0.75rem;
     
   }
 }
