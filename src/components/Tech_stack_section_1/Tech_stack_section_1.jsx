@@ -10,7 +10,7 @@ const Tech_stack_section_1 = () => {
 
           <div className="tech__s__1__section__left__side">
             <div className="tech__s__1__section__header__container mb-3">
-              <h5 className="indicator__headings">Tech-stack</h5>
+              <h5 className="indicator__headings" id="tech__stack__heading">Tech-stack</h5>
               <h2 className="main__heading__text__styling">I am skilled in these languages</h2>
             </div>
 

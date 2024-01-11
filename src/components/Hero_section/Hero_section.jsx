@@ -8,7 +8,7 @@ const Hero_section = () => {
 
           <div className="hero__section__left__side">
             <div className="hero__section__header__container mb-3">
-              <h1 className="main__heading__text__styling main__mobile__heading__text__styling ">Hey there, Welcome to my portfolio page</h1>
+              <h1 className="main__heading__text__styling main__mobile__heading__text__styling" id="intro__heading">Hey there, Welcome to my portfolio page</h1>
             </div>
 
             <div className="hero__section__body__text__container mb-2">

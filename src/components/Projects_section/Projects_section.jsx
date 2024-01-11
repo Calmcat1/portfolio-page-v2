@@ -6,7 +6,7 @@ const Projects_section = () => {
     <div>
         <div className="project__section__projects">
           
-          <h1 className="main__heading__text__styling text-center">Projects</h1>
+          <h1 className="main__heading__text__styling text-center" id="projects__heading">Projects</h1>
 
           <div className="project__section_content_1 mb-5">
             <div className="project__section_content__subcontainer">
