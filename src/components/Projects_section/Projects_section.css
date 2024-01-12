@@ -16,6 +16,7 @@
 .project__section_content_1:hover,.project__section_content_2:hover,.project__section_content_3:hover{
   background-color: rgba(255, 255, 255, 0.285);
   border-radius: 3.123rem;
+  padding-left: 0.125em;
 }
 
 @media only screen and (max-width:700px){
