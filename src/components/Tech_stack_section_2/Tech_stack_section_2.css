@@ -1,3 +1,17 @@
+@keyframes rotateText {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
 .tech__s__2__section__content__container{
   display: flex;
   flex-direction: row-reverse;
@@ -6,13 +20,12 @@
 }
 
 
-.tech__s__2__images__top{
-  display: none;
-  width: 10%;
-
-}
 
 .tech__s__2__section__left__side{
   text-align: end;
 }
 
+
+.tech__s__2__image{
+  animation: rotateText 6s linear infinite;
+}
