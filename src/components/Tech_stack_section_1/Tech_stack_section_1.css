@@ -19,6 +19,13 @@
   padding: 0.2em;
 }
 
+.tech__stack__s1__imgs{
+  transition: 0.5s color;
+}
+
+.tech__stack__s1__imgs:hover{
+  color: #007bff !important;
+}
 
 
 @media only screen and (max-width: 700px){

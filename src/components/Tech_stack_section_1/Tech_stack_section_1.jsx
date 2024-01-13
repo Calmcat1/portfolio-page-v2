@@ -26,13 +26,13 @@ const Tech_stack_section_1 = () => {
           <div className="tech__s__1__section__right__side">
             <div className="tech__s__1__section__image__container"> 
               <div className='tech__s__1__section__image__container__top'>
-                <i class="fa-brands fa-css3-alt color__white"></i>
-                <i class="fa-brands fa-python color__white"></i><br></br>
+                <i class="fa-brands fa-css3-alt color__white tech__stack__s1__imgs"></i>
+                <i class="fa-brands fa-python color__white tech__stack__s1__imgs"></i><br></br>
               </div>
 
               <div className='tech__s__1__section__image__container__btm'>
-                <i class="fa-brands fa-html5 color__white"></i>
-                <i class="fa-brands fa-square-js color__white"></i>
+                <i class="fa-brands fa-html5 color__white tech__stack__s1__imgs"></i>
+                <i class="fa-brands fa-square-js color__white tech__stack__s1__imgs"></i>
               </div>
               
             </div>
