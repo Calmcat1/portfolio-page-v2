@@ -14,7 +14,7 @@ const Intro_section = () => {
             </div>
 
             <div className="intro__section__body__text__container mb-2">
-                <p className="custom__body__text__styling">With knowledge in various  
+                <p className="custom__body__text__styling" id="tech__stack__heading">With knowledge in various  
                 languages and frameworks</p>
             </div>
 
