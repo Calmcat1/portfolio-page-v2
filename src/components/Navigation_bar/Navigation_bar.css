@@ -1,5 +1,15 @@
+
+
+
 .navbar .container{
   justify-content: space-around !important;
+}
+
+
+
+.nav-link:hover{
+  border-bottom: 1px white solid;
+  font-weight: 700;
 }
 
 

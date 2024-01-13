@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navigation_bar.css'
 
+
 const Navigation_bar = () => {
   return (
     <div>
