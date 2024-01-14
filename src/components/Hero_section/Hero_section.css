@@ -1,25 +1,69 @@
 /* pc hero section styling */
 
-.hero__section__content__container{
- 
+@keyframes typingAnims{
+  from{width: 0;}
+  to{width: 100%;}
+}
+
+
+@keyframes blinking {
+  0% {border-right-color: transparent}
+  50% {border-right-color: white}
+  100% {border-right-color: transparent}
 }
 
 .hero__section__header__container{
-  width: 27rem;
+  width: 47em;
 }
+
 
 .hero__section__custom__btn__styling{
   border-radius: 20px !important;
 }
 
 
+.hero__section__h1__typewriter{
+  overflow: hidden;
+  width: 0;
+  white-space: nowrap;
+  margin: 0 auto;
+  animation: typingAnims 3s steps(43, end) forwards, blinking 1s infinite;
+  border-right: 3px white solid;
+}
+
+.hero__section__mobile__extra__h1__content{
+  display: none;
+}
+
+
 @media only screen and (max-width:700px){
 
   .hero__section__header__container{
-    width: auto;
+    width: 17em;
   }
+
+
 
   .main__mobile__heading__text__styling{
     width: 19rem;
+  }
+
+  .hero__section__h1__typewriter{
+    animation: typingAnims 3s steps(30, end) forwards, blinking 1s infinite;
+    
+  }
+
+  .hero__section__mobile__extra__h1__content{
+    display: block;
+    overflow: hidden;
+    width: 0;
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: typingAnims 3s steps(30, end) forwards 4s, blinking 1s infinite 4s;
+    border-right: 3px transparent solid;
+  }
+
+  .hero__no__mobile__h1__section{
+    display: none;
   }
 }
