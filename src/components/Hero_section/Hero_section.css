@@ -27,7 +27,7 @@
   width: 0;
   white-space: nowrap;
   margin: 0 auto;
-  animation: typingAnims 3s steps(43, end) forwards, blinking 1s infinite;
+  animation: typingAnims 3s steps(30, end) forwards, blinking 1s infinite;
   border-right: 3px white solid;
 }
 
@@ -48,10 +48,7 @@
     width: 19rem;
   }
 
-  .hero__section__h1__typewriter{
-    animation: typingAnims 3s steps(30, end) forwards, blinking 1s infinite;
-    
-  }
+
 
   .hero__section__mobile__extra__h1__content{
     display: block;
