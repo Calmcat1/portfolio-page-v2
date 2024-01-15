@@ -10,7 +10,7 @@ const Intro_section = () => {
           <div className="intro__section__left__side">
             <div className="intro__section__header__container mb-3">
               <h5 className="indicator__headings">Intro</h5>
-              <h2 className="main__heading__text__styling">I am a full-stack developer</h2>
+              <h2 className="main__heading__text__styling">I am a <div class="Intro__section__flip__container"><div><div>Full-stack developer</div></div><div><div>Front-End developer</div></div><div><div>Back-End Developer</div></div></div></h2>
             </div>
 
             <div className="intro__section__body__text__container mb-2">
