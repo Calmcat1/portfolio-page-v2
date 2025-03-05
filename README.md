@@ -10,7 +10,7 @@ This portfolio serves as a central hub for my professional journey, including:
 - **Contact**: Ways to reach out for collaboration or inquiries.
 
 ## 🔗 Live Site
-You can view the live portfolio here: portfolio-page-v2-tan.vercel.app
+You can view the live portfolio here: https://portfolio-page-v2-tan.vercel.app/
 
 ## 🛠️ Tech Stack
 This site is built using:
