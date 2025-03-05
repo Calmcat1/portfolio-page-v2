@@ -14,7 +14,7 @@ You can view the live portfolio here: https://portfolio-page-v2-tan.vercel.app/
 
 ## 🛠️ Tech Stack
 This site is built using:
-- **Frontend**: [React, HTML, CSS, JavaScript]
+- **Frontend**: [React, HTML, Tailwind.CSS, JavaScript]
 - **Hosting**: [Vercel]
 
 
