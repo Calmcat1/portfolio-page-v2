@@ -18,8 +18,8 @@ const Tech_stack_section_2 = () => {
                 
                 <p className="custom__body__text__styling">
                 Currently have these frameworks
-                on board as of now<br>
-                <b>Backend</b>: Spring Boot, Node.js</br>
+                on board as of now<br></br>
+                <b>Backend</b>: Spring Boot, Node.js<br></br>
                 <b>Frontend</b>: React
                 </p>
             </div>
