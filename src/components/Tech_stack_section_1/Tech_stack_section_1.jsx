@@ -16,9 +16,9 @@ const Tech_stack_section_1 = () => {
 
             <div className="tech__s__1__section__body__text__container mb-2">
                 <p className="custom__body__text__styling">
-                    With over a year of hands-on experience in CSS, HTML, Python, and JavaScript,<br></br>
-                     I bring a solid foundation in web development.<br></br>
-                     My skills encompass modern CSS layouts</p>
+                    I have a strong foundation in Software Engineering<br></br>
+                    specializing in Java and Spring Boot for backend development<br></br>
+                    and React for building dynamic front-end applications.</p>
             </div>
 
           </div>

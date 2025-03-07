@@ -26,6 +26,7 @@ const Tech_stack_section_2 = () => {
         
           <div className="tech__s__2__section__right__side">
             <div className="tech__s__2__section__image__container"> 
+              <i class="fa-brands fa-spring color__white tech__s__2__image"></i>
               <i class="fa-brands fa-react color__white tech__s__2__image"></i>
             </div>
           </div>
