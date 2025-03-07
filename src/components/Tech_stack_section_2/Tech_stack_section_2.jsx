@@ -18,9 +18,9 @@ const Tech_stack_section_2 = () => {
                 
                 <p className="custom__body__text__styling">
                 Currently have these frameworks
-                on board as of now
-                Backend: Spring Boot, Node.js
-                Frontend: React
+                on board as of now<br>
+                <b>Backend</b>: Spring Boot, Node.js</br>
+                <b>Frontend</b>: React
                 </p>
             </div>
 
@@ -28,7 +28,6 @@ const Tech_stack_section_2 = () => {
         
           <div className="tech__s__2__section__right__side">
             <div className="tech__s__2__section__image__container"> 
-              <i class="fa-brands fas fa-leaf color__white tech__s__2__image"></i>
               <i class="fa-brands fa-react color__white tech__s__2__image"></i>
             </div>
           </div>
